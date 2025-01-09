@@ -4,15 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df65daff-f168-4ea9-bfda-db1ef11a7e2d" name="Changes" comment="" />
+    <list default="true" id="df65daff-f168-4ea9-bfda-db1ef11a7e2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sarita123-bit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sarita123-bit/SeleniumATB9x.git&quot;,
+    &quot;accountId&quot;: &quot;0adb8c34-4f56-47f6-b3c6-5ac6ef3b30ab&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2qh6op9Nk6JzhRAehnM8FhhFuzl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,11 +47,131 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AppTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/pc/IdeaProjects/SeleniumATB9x/testng.xml.executor": "Run",
+    "TestNG.TestSelenium01_Edge.executor": "Run",
+    "TestNG.TestSelenium01_Edge.test_Selenium01.executor": "Run",
+    "TestNG.TestSelenium02_Driver_Class.executor": "Run",
+    "TestNG.TestSelenium03_Assertion_1.executor": "Run",
+    "TestNG.TestSelenium03_Assertion_2.executor": "Run",
+    "TestNG.TestSelenium05_Navigation.executor": "Run",
+    "TestNG.TestSelenium06_Close_Vs_Quit.executor": "Run",
+    "TestNG.TestSelenium07_Options.executor": "Run",
+    "TestNG.TestSelenium09_Locators.executor": "Run",
+    "TestNG.TestSelenium10_Locators.executor": "Run",
+    "TestNG.TestSelenium11_Locators.executor": "Run",
+    "TestNG.TestSelenium12_Xpath.executor": "Run",
+    "TestNG.TestSelenium13_WebTables1.executor": "Run",
+    "TestNG.TestSelenium14_WebTables2.executor": "Run",
+    "TestNG.TestSelenium15_SVGElement_search_icon.executor": "Run",
+    "TestNG.TestSelenium16_SVGElement_Map_States.executor": "Run",
+    "TestNG.TestSelenium17_Actions_AwesomeQA.executor": "Run",
+    "TestNG.TestSelenium18_Actions_SpiceJet.executor": "Run",
+    "TestNG.TestSelenium19_Actions_MakeMyTrip.executor": "Run",
+    "TestNG.TestSelenium20_windows.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.TestSelenium21_windows_complex">
+    <configuration name="TestSelenium17_Actions_AwesomeQA" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Actions_class_06_01_2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Actions_class_06_01_2025" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Actions_class_06_01_2025.TestSelenium17_Actions_AwesomeQA" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium18_Actions_SpiceJet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Actions_class_06_01_2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Actions_class_06_01_2025" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Actions_class_06_01_2025.TestSelenium18_Actions_SpiceJet" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium19_Actions_MakeMyTrip" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Actions_class_06_01_2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Actions_class_06_01_2025" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Actions_class_06_01_2025.TestSelenium19_Actions_MakeMyTrip" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium20_windows" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.windows_06_01_2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.windows_06_01_2025" />
+      <option name="MAIN_CLASS_NAME" value="com.example.windows_06_01_2025.TestSelenium20_windows" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium21_windows_complex" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.windows_06_01_2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.windows_06_01_2025" />
+      <option name="MAIN_CLASS_NAME" value="com.example.windows_06_01_2025.TestSelenium21_windows_complex" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSelenium21_windows_complex" />
+        <item itemvalue="TestNG.TestSelenium20_windows" />
+        <item itemvalue="TestNG.TestSelenium19_Actions_MakeMyTrip" />
+        <item itemvalue="TestNG.TestSelenium18_Actions_SpiceJet" />
+        <item itemvalue="TestNG.TestSelenium17_Actions_AwesomeQA" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
